@@ -17,10 +17,10 @@ Everything in this project was compiled by trial and error from multiple sources
 ##### Note: I've modified the Kino fog shader to work with Alpha cutout shaders and forward rendering (required for our mobile game). AFAIK these have not been added to the main Kino fog shader.
 
 #### Skybox Shader
-(https://github.com/keijiro/KinoFog "Kino Fog Github Source")
+[Kino Fog Github Source](https://github.com/keijiro/KinoFog)
 
 #### Skybox Cartoon Textures
-(https://www.assetstore.unity3d.com/en/#!/content/60004 "Farland Skies Cloud Crown Textures")
+[Farland Skies Cloud Crown Textures](https://www.assetstore.unity3d.com/en/#!/content/60004)
 
 ## Roadmap
 
